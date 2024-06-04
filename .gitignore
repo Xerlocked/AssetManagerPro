@@ -1,3 +1,7 @@
+# Rider config files & vsconfig
+AssetManagerPro/.idea/*
+AssetManagerPro/.vsconfig
+
 # Visual Studio 2015 user specific files
 .vs/
 
